@@ -20,7 +20,7 @@ Create secure passwords with customizable options and an instant strength checke
 1.	Clone this repo:
 
 ```
-git clone https://github.com/your-username/random-password-generator.git
+git clone https://github.com/Dido-D-B/Random_Password_Generator
 cd random-password-generator
 ```
 
